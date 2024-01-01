@@ -1,6 +1,6 @@
 # MusicCompanyCLone
 
-npm i
-npm i nodemon
+<p>npm i</p>
+<p>npm i nodemon</p>
 
-nodemon index.js
+<p>nodemon index.js</p>
